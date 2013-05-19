@@ -1,0 +1,7 @@
+*.elc
+*.el~
+auto-save-list/
+backup/
+eshell/
+org/
+org-clock-save.el
